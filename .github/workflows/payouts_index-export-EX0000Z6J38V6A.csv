@@ -1,0 +1,1 @@
+id,amount,currency,created_at,reference,status,arrival_date,transaction_fee_debit,transaction_fee_credit,app_fee_debit,app_fee_credit,total_payment_amount,links.creditor_bank_account,links.creditor,surcharge_fee_debit,surcharge_fee_credit
